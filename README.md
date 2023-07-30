@@ -24,14 +24,15 @@ Additionally, expanding the app to include a broader range of property types, su
 2.
 3.
 
-#### Imported Modules 
+### Imported Modules 
 
 These are the modules used for the three pages of the Streamlit 
 
-Real Estate Page
+#### Real Estate Page
 
+![real_estate_libraries page](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/260b7822-e21d-49a5-81cd-925d98b1b16b)
 
-Real Estate Dashboard and Real Estate Sales Page
+#### Real Estate Dashboard and Real Estate Sales Page
 
 ![sales_dash](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/0eae58a4-ccb7-4d95-b8c2-18a0758c2419)
 
