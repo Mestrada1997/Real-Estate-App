@@ -27,11 +27,16 @@ Additionally, expanding the app to include a broader range of property types, su
 #### Imported Modules 
 
 These are the modules used for the three pages of the Streamlit 
+
 Real Estate Page
 
-Real Estate Dashboard Page
 
-Real Estate Sales Page 
+Real Estate Dashboard and Real Estate Sales Page
+
+![sales_dash](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/0eae58a4-ccb7-4d95-b8c2-18a0758c2419)
+
+
+
 
 
 
