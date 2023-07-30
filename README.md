@@ -38,6 +38,18 @@ These are the modules used for the three pages of the Streamlit
 
 
 
+![choose_csv](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/67622ff8-8763-4cea-93f8-76bfc4997eaf)
+
+![convert_df](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/791daf7d-9cd3-4912-9280-4ebf80693082)
+
+Lottie is optional if you want to add animations you can go to the Lottie website [Here!](https://lottiefiles.com/)
+
+![lottie_deco](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/24ff0587-6dfd-4bd8-9c45-13f5debf242d)
+
+![real_estate_lambda](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/e3c40a47-4c1e-43f5-8d3d-72aa14d36fe9)
+
+
+
 
 
 
