@@ -19,11 +19,6 @@ During the development process, we encountered several challenges. One such chal
 
 Additionally, expanding the app to include a broader range of property types, such as commercial real estate, is a key feature we plan to implement. By incorporating commercial property data, the app will cater to a wider audience, including investors exploring different sectors of the real estate market.
 
-### TABLE OF CONTENT:
-1. Imported Modules
-2. 
-3.
-
 ### Imported Modules 
 
 These are the modules used for the three pages of the Streamlit 
