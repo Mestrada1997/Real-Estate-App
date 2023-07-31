@@ -21,7 +21,7 @@ Additionally, expanding the app to include a broader range of property types, su
 
 ### TABLE OF CONTENT:
 1. Imported Modules
-2.
+2. 
 3.
 
 ### Imported Modules 
@@ -36,9 +36,15 @@ These are the modules used for the three pages of the Streamlit
 
 ![sales_dash](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/0eae58a4-ccb7-4d95-b8c2-18a0758c2419)
 
+#### Set Title
 Here you can name your Streamlit browser title with st.title function , to add the function of uploading files yuo use the st.file_uploader and assign it a variable
 
 ![choose_csv](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/67622ff8-8763-4cea-93f8-76bfc4997eaf)
+
+#### Upload Files Function
+For uploaded files 
+
+![if function](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/05756e5d-403c-465a-b67f-75e253a1f464)
 
 
 #### CONVERT 
@@ -68,11 +74,18 @@ The 1 and 0 is the true and false values where you must reference later when cre
 
 ![real_estate_lambda](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/e3c40a47-4c1e-43f5-8d3d-72aa14d36fe9)
 
+#### METRICS
+
+Here we are referencing and each type of desired information you want the streamlit to read and output everytime a csv is uploaded 
+
+![Metrics ](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/61c316bb-746b-497e-b77d-4bebcc04e00b)
+
+
 #### CHARTS
 
 Here we are creating the various charts for each different metric , we will also be using the plotly express library to do this
 
-Here we assign the 
+Here we assign the follwing columns with different types of charts:
 
 ![charts](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/edd0d52f-cf9c-43f1-a1fc-4aca83f352e3)
 
@@ -84,7 +97,7 @@ Here we assign the
 
 ![lottie ref](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/51fb51a6-810b-4625-aa91-fac61fbced2a)
 
-![Metrics ](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/61c316bb-746b-497e-b77d-4bebcc04e00b)
+
 
 
 
