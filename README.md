@@ -62,6 +62,18 @@ After referencing the link to your desired Lottie Files assing the lottie variba
 ![real_estate_lambda](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/e3c40a47-4c1e-43f5-8d3d-72aa14d36fe9)
 
 
+![charts](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/edd0d52f-cf9c-43f1-a1fc-4aca83f352e3)
+
+![df_features](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/d657a351-9f0f-4488-b5d9-8ccce44fb19b)
+
+![download](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/f8622258-96e4-41ad-b149-65dec65a1218)
+
+![features](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/3bf869c3-3815-4615-9453-56c0385a7ebc)
+
+![lottie ref](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/51fb51a6-810b-4625-aa91-fac61fbced2a)
+
+![Metrics ](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/61c316bb-746b-497e-b77d-4bebcc04e00b)
+
 
 
 
