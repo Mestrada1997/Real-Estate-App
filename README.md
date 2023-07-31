@@ -36,14 +36,18 @@ These are the modules used for the three pages of the Streamlit
 
 ![sales_dash](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/0eae58a4-ccb7-4d95-b8c2-18a0758c2419)
 
-
+Here you can name your Streamlit browser title with st.title function , to add the function of uploading files yuo use the st.file_uploader and assign it a variable
 
 ![choose_csv](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/67622ff8-8763-4cea-93f8-76bfc4997eaf)
+
+
+#### CONVERT 
+Here we will convert the df(dataframe) into a CSV file.After converting the DataFrame to a CSV string, this method encodes the string using UTF-8 format. UTF-8 is a character encoding that allows for the representation of a wide range of characters from various languages and is widely used to ensure compatibility across different systems and platforms.
 
 ![convert_df](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/791daf7d-9cd3-4912-9280-4ebf80693082)
 
 
-LOTTIE 
+#### LOTTIE 
 
 A Lottie is a JSON-based animation file format that allows you to ship animations on any platform as easily as shipping static assets. They are small files that work on any device and can scale up or down without pixelation. 
 
@@ -57,10 +61,18 @@ Lottie is optional if you want to add animations you can go to the Lottie websit
 
 After referencing the link to your desired Lottie Files assing the lottie varibales to the left or right column of the streamlit page:
 
+#### LAMBDA
+Below is the function for adding an additional bedroom and an additional adu, here its set at a ratio of at least 150 for bedrooms and a ratio of at least 3 for ADU and at elast one present bedroom, but you can change it if you follow a different criteria
 
+The 1 and 0 is the true and false values where you must reference later when creating these columns in the csv file
 
 ![real_estate_lambda](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/e3c40a47-4c1e-43f5-8d3d-72aa14d36fe9)
 
+#### CHARTS
+
+Here we are creating the various charts for each different metric , we will also be using the plotly express library to do this
+
+Here we assign the 
 
 ![charts](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/edd0d52f-cf9c-43f1-a1fc-4aca83f352e3)
 
