@@ -42,9 +42,22 @@ These are the modules used for the three pages of the Streamlit
 
 ![convert_df](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/791daf7d-9cd3-4912-9280-4ebf80693082)
 
+
+LOTTIE 
+
+A Lottie is a JSON-based animation file format that allows you to ship animations on any platform as easily as shipping static assets. They are small files that work on any device and can scale up or down without pixelation. 
+
+Below is how you code your function to get your lottie animations in, you would need to use requests which is one of the modules you import in your libraries 
+we will be using json as the file you can use from the lottie website is the json url.
+- set a container with options of a right and left column 
+
 Lottie is optional if you want to add animations you can go to the Lottie website [Here!](https://lottiefiles.com/)
 
 ![lottie_deco](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/24ff0587-6dfd-4bd8-9c45-13f5debf242d)
+
+After referencing the link to your desired Lottie Files assing the lottie varibales to the left or right column of the streamlit page:
+
+
 
 ![real_estate_lambda](https://github.com/Mestrada1997/Real-Estate-App/assets/125697853/e3c40a47-4c1e-43f5-8d3d-72aa14d36fe9)
 
